@@ -1,0 +1,5 @@
+﻿  main.cpp
+z:\cs4052\lab 1\main.cpp(39): warning C4129: '	': unrecognized character escape sequence
+z:\cs4052\lab 1\main.cpp(178): warning C4101: 'shaderProgramID1': unreferenced local variable
+  JamesFarrellLab1.vcxproj -> Z:\CS4052\JamesFarrellLab1\Debug\JamesFarrellLab1.exe
+  JamesFarrellLab1.vcxproj -> Z:\CS4052\JamesFarrellLab1\Debug\JamesFarrellLab1.pdb (Partial PDB)
